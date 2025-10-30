@@ -5,8 +5,8 @@
 - <b>Using Markov Chains to Model Late-Game Fouling in College Basketball</b>
   - [Full Project Details](https://github.com/anirudhsengupta/Markov-Chains-in-College-Basketball)
   - [Poster at Carnegie Mellon Sports Analytics Conference](https://www.linkedin.com/posts/anirudh-sengupta_sportsanalytics-cmsac-activity-7389082180536250368--2nK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQzy6cBpu0Imor1_qaqMD19nHy0rAx0W0c)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Optimizing Drone Delivery: Investigating the Correlation Between Payload, Altitude, and Velocity</b>
+  - [Full Youtube Walkthrough](https://youtu.be/pGDTR-Ps26c?si=ci5LwUYjPFnOPuEv) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
