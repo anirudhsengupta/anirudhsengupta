@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Using Markov Chains to Model Late-Game Fouling in College Basketball</b>
+  - [Full Project Details](https://github.com/anirudhsengupta/Markov-Chains-in-College-Basketball)
+  - [Poster at Carnegie Mellon Sports Analytics Conference](https://www.linkedin.com/posts/anirudh-sengupta_sportsanalytics-cmsac-activity-7389082180536250368--2nK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQzy6cBpu0Imor1_qaqMD19nHy0rAx0W0c)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
