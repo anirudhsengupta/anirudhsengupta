@@ -6,32 +6,24 @@
   - [Full Project Details](https://github.com/anirudhsengupta/Markov-Chains-in-College-Basketball)
   - [Poster at Carnegie Mellon Sports Analytics Conference](https://www.linkedin.com/posts/anirudh-sengupta_sportsanalytics-cmsac-activity-7389082180536250368--2nK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQzy6cBpu0Imor1_qaqMD19nHy0rAx0W0c)
 - <b>Optimizing Drone Delivery: Investigating the Correlation Between Payload, Altitude, and Velocity</b>
-  - [Full Youtube Walkthrough](https://youtu.be/pGDTR-Ps26c?si=ci5LwUYjPFnOPuEv) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Full Youtube Walkthrough](https://youtu.be/pGDTR-Ps26c?si=ci5LwUYjPFnOPuEv) <b>
+- <b>Using K-means Clustering to Create New Positions for Modern Basketball</b>
+  - [Full Research Paper](https://drive.google.com/file/d/1V83GQWC_jgKvWzr9CE2bh3TglY6S-lPg/view?usp=sharing)
+ 
+<h2> 🏅 Notable Accomplishments:</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- 🧠 **Catalyst Award Winner** — East Carolina University *Summer Ventures Program*
+- 🎓 **Python Certified** — University of Michigan *(via Coursera)*
+- 🥇 **#1 Ranked Competitor in NC Varsity E-Sports & STEM** — Data Analytics and Cybersecurity Divisions
+- ➗ **3× AIME Qualifier** — *American Invitational Mathematics Examination*
+- 🏏 **Youngest Accredited Media** — Major League Cricket
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AnirudhSengupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AnirudhSengupta | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
+[<img align="left" alt="AnirudhSengupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/anirudh-sengupta/
 [youtube]: https://www.youtube.com/@TheSquareDrivePodcast
+[instagram]: https://www.instagram.com/thesquaredrivepodcast/
