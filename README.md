@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anirudh! <br/><a href="https://github.com/anirudhsengupta">Sports Analyst</a>, <a href="https://www.linkedin.com/in/anirudh-sengupta/">Math Tutor</a>, <a href="https://www.youtube.com/@TheSquareDrivePodcast">Cricket Podcaster</a></h1>
+<h1>Hi, I'm Anirudh! <br/><a href="https://github.com/anirudhsengupta">Sports Analyst</a>, <a href="https://www.linkedin.com/in/anirudh-sengupta/">Educational Nonprofit Founder</a>, <a href="https://www.youtube.com/@TheSquareDrivePodcast">Cricket Podcaster</a></h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
