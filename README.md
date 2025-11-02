@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anirudh! <br/><a href="https://github.com/anirudhsengupta">Sports Analyst</a>, <a href="https://www.linkedin.com/in/anirudh-sengupta/">Math Tutor</a>, <a href="https://www.youtube.com/@TheSquareDrivePodcast">Cricket Youtuber</a></h1>
+<h1>Hi, I'm Anirudh! <br/><a href="https://github.com/anirudhsengupta">Sports Analyst</a>, <a href="https://www.linkedin.com/in/anirudh-sengupta/">Math Tutor</a>, <a href="https://www.youtube.com/@TheSquareDrivePodcast">Cricket Podcaster</a></h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
@@ -7,6 +7,8 @@
   - [Poster at Carnegie Mellon Sports Analytics Conference](https://www.linkedin.com/posts/anirudh-sengupta_sportsanalytics-cmsac-activity-7389082180536250368--2nK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQzy6cBpu0Imor1_qaqMD19nHy0rAx0W0c)
 - <b>Optimizing Drone Delivery: Investigating the Correlation Between Payload, Altitude, and Velocity</b>
   - [Full Youtube Walkthrough](https://youtu.be/pGDTR-Ps26c?si=ci5LwUYjPFnOPuEv) <b>
+- <b>Using OpenCV and Mediapipe to Track Shooting Form</b>
+  - [Current Project Demo](https://github.com/anirudhsengupta/basketball-pose-estimation) <b>
 - <b>Using K-means Clustering to Create New Positions for Modern Basketball</b>
   - [Full Research Paper](https://drive.google.com/file/d/1V83GQWC_jgKvWzr9CE2bh3TglY6S-lPg/view?usp=sharing)
  
