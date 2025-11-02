@@ -16,15 +16,15 @@
 
 - 🧠 **Catalyst Award Winner** — East Carolina University *Summer Ventures Program*
 - 🎓 **Python Certified** — University of Michigan *(via Coursera)*
-- 🥇 **#1 Ranked Competitor in NC Varsity E-Sports & STEM** — Data Analytics and Cybersecurity Divisions
+- 🥇 **#1 Ranked Competitor in 2025 NC Varsity E-Sports & STEM League** — Data Analytics and Cybersecurity Divisions
 - ➗ **3× AIME Qualifier** — *American Invitational Mathematics Examination*
 - 🏏 **Youngest Accredited Media** — Major League Cricket
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AnirudhSengupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AnirudhSengupta | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AnirudhSengupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AnirudhSengupta | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
+[<img align="left" alt="AnirudhSengupta | YouTube" width="22px" src="https://static.vecteezy.com/system/resources/previews/016/716/475/non_2x/youtube-icon-free-png.png" />][youtube]
+[<img align="left" alt="AnirudhSengupta | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/anirudh-sengupta/
 [youtube]: https://www.youtube.com/@TheSquareDrivePodcast
