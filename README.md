@@ -6,7 +6,8 @@
   - [Full Project Details](https://github.com/anirudhsengupta/Markov-Chains-in-College-Basketball)
   - [Poster at Carnegie Mellon Sports Analytics Conference](https://www.linkedin.com/posts/anirudh-sengupta_sportsanalytics-cmsac-activity-7389082180536250368--2nK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQzy6cBpu0Imor1_qaqMD19nHy0rAx0W0c)
 - <b>Using OpenCV and Mediapipe to Track Shooting Form</b>
-  - [Current Project Demo](https://github.com/anirudhsengupta/basketball-pose-estimation) <b>
+  - [Current Project Details](https://github.com/anirudhsengupta/basketball-pose-estimation)
+  - [YouTube Demonstration](https://youtu.be/vbthmnTVBMs?si=dPYJuozyx0Uo_tgD)<b>
 - <b>Optimizing Drone Delivery: Investigating the Correlation Between Payload, Altitude, and Velocity</b>
   - [Full Youtube Walkthrough](https://youtu.be/pGDTR-Ps26c?si=ci5LwUYjPFnOPuEv) <b>
 - <b>Using K-means Clustering to Create New Positions for Modern Basketball</b>
