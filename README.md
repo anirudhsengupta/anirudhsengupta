@@ -4,6 +4,7 @@
 
 - <b>Using Markov Chains to Model Late-Game Fouling in College Basketball</b>
   - [Full Project Details](https://github.com/anirudhsengupta/Markov-Chains-in-College-Basketball)
+  - To be published in the Wharton Sports Analytics Journal: Fall 2025 Edition
   - [#1 HS Poster at Carnegie Mellon Sports Analytics Conference](https://www.linkedin.com/posts/anirudh-sengupta_sportsanalytics-cmsac-activity-7389082180536250368--2nK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQzy6cBpu0Imor1_qaqMD19nHy0rAx0W0c)
 - <b>Using OpenCV and Mediapipe to Track Shooting Form</b>
   - [Current Project Details](https://github.com/anirudhsengupta/basketball-pose-estimation)
